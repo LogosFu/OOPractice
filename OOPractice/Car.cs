@@ -1,18 +1,9 @@
 namespace OOPractice
 {
-    public class Car
+    public class Car : Vehicle
     {
-        public Car(string name, int speed)
+        public Car(string name, int speed) : base(name, speed)
         {
-            Name = name;
-            Speed = speed;
-        }
-
-        public string Name { get; set; }
-        public int Speed { get; set; }
-        public string SpeedUp()
-        {
-            return $"{Name} : speed up {Speed} km/h";
         }
     }
 }
