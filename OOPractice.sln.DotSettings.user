@@ -3,5 +3,6 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::A8ADF2B5-445D-4A86-8DBF-0350586E4EFC::net6.0::OOPracticeTest.UnitTest1&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::A8ADF2B5-445D-4A86-8DBF-0350586E4EFC::net6.0::OOPracticeTest.CarTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::A8ADF2B5-445D-4A86-8DBF-0350586E4EFC::net6.0::OOPracticeTest.TruckTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
